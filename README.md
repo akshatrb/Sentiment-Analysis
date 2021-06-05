@@ -37,7 +37,7 @@ Both of these can be added in rows of a .xls file.
   
 ## Support
 
-Necessary comments at appropriate places added.
+Necessary comments at appropriate places have been added.
 
 Feel free to ask of any doubts and consider dropping a ⭐ if the repo was of help!
   
